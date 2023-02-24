@@ -12,7 +12,7 @@
 ### Heretic
 | Name | Filename | Version | Patch file |
 |------|----------|---------|------|
-|[Heretic Registered](heretic.wad)|heretic.wad|1.3|-|
+|[Heretic Registered](heretic.wad)|heretic.wad|1.2|-|
 
 ### Hexen
 | Name | Filename | Version | Patch file |
@@ -23,7 +23,7 @@
 ### Strife
 | Name | Filename | Version | Patch file |
 |------|----------|---------|------|
-|[Strife Registered](strife1.wad)|strife1.wad|1.31|[voices.wad](pwad/voices.wad)
+|[Strife Registered](strife1.wad)|strife1.wad|1.2|[voices.wad](pwad/voices.wad)
 
 ### Chex Quest
 | Name | Filename | Version | Patch file |
