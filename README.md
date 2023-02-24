@@ -29,3 +29,12 @@
 | Name | Filename | Version | Patch file |
 |------|----------|---------|------|
 |[Chex Quest](chex.wad)|chex.wad|1.0|[chex.deh](pwad/chex.deh)*|
+
+### Freedoom
+| Name | Filename | Version | Patch file |
+|------|----------|---------|------|
+|[Freedoom: Phase 1](freedoom1.wad)|freedoom1.wad|0.12.1|-|
+|[Freedoom: Phrase 2](freedoom2.wad)|freedoom2.wad|0.12.1|-|
+|[FreeDM](freedm.wad)|freedm.wad|0.12.1|-|
+
+###### *Advanced ports like GZDoom won't need chex.deh.
