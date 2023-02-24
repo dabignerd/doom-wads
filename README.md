@@ -1,5 +1,7 @@
 # "Where's All the Data?" (WAD)
 
+##### [web version](https://dabignerd.github.io/doom-wads)
+
 ### Doom
 | Name | Filename | Version | Patch file |
 |------|----------|---------|------|
