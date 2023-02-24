@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+div {
+    margin: 20px;
+}
