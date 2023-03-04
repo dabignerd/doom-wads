@@ -12,20 +12,14 @@ div {
     margin: 20px;
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-    height: 20%;
-}
-
-h1,h3 {
-    text-align: center;
+h2 {
+    text-align: left;
+    font-size: 230%;
 }
 
 p {
-    text-align: center;
+    font-size: 130%;
+    line-height: 35px;
 }
 
 #chex-deh {
