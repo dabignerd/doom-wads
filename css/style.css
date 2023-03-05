@@ -29,3 +29,9 @@ p {
 red {
     color: red;
 }
+
+.zip-links {
+    text-decoration: none;
+    font-size: 80%;
+    color: red;
+}
