@@ -18,7 +18,7 @@
 | Name | Filename | Version | Patch file |
 |------|----------|---------|------|
 |[Hexen](https://dabignerd.github.io/doom-wads/wads/hexen.wad)|hexen.wad|1.1|-|
-|[Hexen: Deathkings of the Citadel](https://dabignerd.github.io/doom-wads/wads/hexdd.wad)|hexdd.wad|1.1|-|
+|[Hexen: Deathkings of the Dark Citadel](https://dabignerd.github.io/doom-wads/wads/hexdd.wad)|hexdd.wad|1.1|-|
 
 ### Strife
 | Name | Filename | Version | Patch file |
