@@ -3,9 +3,9 @@
 ### Doom
 | Name | Filename | Version | Patch file |
 |------|----------|---------|------|
-|[Doom](https://dabignerd.github.io/doom-wads/wads/doom.wad)|doom.wad|1.9|-|
-|[Doom II: Hell on Earth](https://dabignerd.github.io/doom-wads/wads/doom2.wad)|doom2.wad|1.9|-|
-|[Final Doom - TNT: Evilution](https://dabignerd.github.io/doom-wads/wads/tnt.wad)|tnt.wad|1.9|[tnt31.wad](https://dabignerd.github.io/doom-wads/wads/patch-files/tnt31.wad)
+|[Doom](https://dabignerd.github.io/doom-wads/wads/doom.wad)|DOOM.WAD|1.9|-|
+|[Doom II: Hell on Earth](https://dabignerd.github.io/doom-wads/wads/doom2.wad)|DOOM2.WAD|1.9|-|
+|[Final Doom - TNT: Evilution](https://dabignerd.github.io/doom-wads/wads/tnt.wad)|TNT.WAD|1.9|[TNT31.WAD](https://dabignerd.github.io/doom-wads/wads/patch-files/tnt31.wad)
 |[Final Doom - The Plutonia Experiment](https://dabignerd.github.io/doom-wads/wads/plutonia.wad)|plutonia.wad|1.9|-|
 |[The Ultimate Doom](https://dabignerd.github.io/doom-wads/wads/doomu.wad)|doomu.wad|1.9|-|
 
