@@ -44,8 +44,3 @@
 | [FreeDM](freedm.wad)                                                           | freedm.wad    | 0.12.1  | -          |
 
 ###### \*Some ports might require [chex.deh](https://www.doomworld.com/idgames/utils/exe_edit/patches/chexdeh)
-
-
-| One         | Two         | Three       |
-| ----------- | ----------- | ----------- |
-| Hello world | Hello world | Hello World |
